@@ -1,39 +1,43 @@
-# Delphi-Projects-Template
+# Le client-serveur en toute simplicité avec la bibliothèque Socket Messaging pour Delphi ([LearnDelphi.org](https://learndelphi.org) Coding Bootcamp 2023)
 
 [This page in english.](README.md)
 
-Un modèle de dépôt git pour mes projets Delphi (ou autres).
+Codes sources, liens et documents liés à la présentation proposée par [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) lors de la conférence [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/).
 
-Ce template est distribué sous licence MIT. La licence AGPL est pour les projets que je crée à partir de ce template de dépôt de code. Utilisez la licence que vous voulez si vous utilisez ce template.
+## Présentation
 
-Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+Les pages de cette présentation sont disponibles en anglais.
 
-## Installation
+Vous pouvez les consulter [sous forme d'images](./slides) ou en [télécharger un PDF](ClientServerMadeEasyInDelphi202308.pdf).
 
-Pour télécharger ce projet il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+## Rediffusions
 
-**Attention :** si le projet utilise des dépendances sous forme de sous modules ils seront absents du fichier ZIP. Vous devrez les télécharger à la main.
+Vous pourrez (re)voir la présentation sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) ou sur [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) dans quelques jours.
 
-## Dépendances
+## Exemples
 
-Ce dépôt de code dépend des dépôts suivants :
+Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voici les liens pour consulter leurs codes sources, les télécharger et les tester.
 
-* project 1
-* project 2
+* [utilisation de sockets en Delphi](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket)
+* [utilisation de la librairie Socket Messaging "à la main"](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server)
+* [création d'un tchat avec le générateur de code](./sample-chat)
+* [création d'un jeu vidéo multi joueurs en temps réel avec le générateur de code](./sample-game)
 
-## Comment demander une nouvelle fonctionnalité, signaler un bogue ou une faille de sécurité ?
+## Liens
 
-Si vous voulez une réponse du propriétaire de ce dépôt la meilleure façon de procéder pour demander une nouvelle fonctionnalité ou signaler une anomalie est d'aller sur [le dépôt de code sur GitHub](https://github.com/DeveloppeurPascal/XXXXXXXXXX) et [d'ouvrir un ticket](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+* [Page "Network Socket" sur Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
-Si vous avez trouvé une faille de sécurité n'en parlez pas en public avant qu'un correctif n'ait été déployé ou soit disponible. [Contactez l'auteur du dépôt en privé](https://developpeur-pascal.fr/nous-contacter.php) pour expliquer votre trouvaille.
+* [Page "System.Net.Socket" sur docwiki](https://docwiki.embarcadero.com/Libraries/en/System.Net.Socket)
 
-Vous pouvez aussi cloner ce dépôt de code et participer à ses évolutions en soumettant vos modifications si vous le désirez. Lisez les explications dans le fichier [CONTRIBUTING.md](CONTRIBUTING.md).
+* [Socket Messaging Code Generator](http://smcodegenerator.olfsoftware.fr)
 
-## Modèle de licence double (seulement pour mes projets, pas pour ce modèle de dépôt de code)
+* [Socket Messaging library for Delphi](https://socketmessaging.developpeur-pascal.fr)
 
-Ce projet est distribué sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
+## Commentaires et questions
 
-Si vous voulez l'utiliser en totalité ou en partie dans vos projets mais ne voulez pas en partager les sources ou ne voulez pas distribuer votre projet sous la même licence, vous pouvez acheter le droit de l'utiliser sous la licence [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) ou une licence dédiée ([contactez l'auteur](https://developpeur-pascal.fr/nous-contacter.php) pour discuter de vos besoins).
+[L'espace de discussion](https://github.com/DeveloppeurPascal/Delphi-Coding-Bootcamp-2023/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
+
+Si vous passez sur [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) ou [Delphi Praxis](https://en.delphipraxis.net) vous aurez une chance d'avoir une réponse de ma part puisque j'y traine aussi de temps en temps.
 
 ## Supportez ce projet et son auteur
 

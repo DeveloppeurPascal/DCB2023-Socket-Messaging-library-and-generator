@@ -1,39 +1,43 @@
-# Delphi-Projects-Template
+# Client server made easy with the Socket Messaging library for Delphi ([LearnDelphi.org](https://learndelphi.org) Coding Bootcamp 2023)
 
 [Cette page en français.](LISEZMOI.md)
 
-A git template for my Delphi (or others) projects.
+Source codes, links and documents related to the presentation given by [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) during the [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/) conference.
 
-This template is distributed under MIT license. The AGPL license is for projects I create from this code repository template. Use the license you want if you use the template.
+## Presentation
 
-This code repository contains a project developed in Object Pascal language under Delphi. You don't know what Delphi is and where to download it ? You'll learn more [on this web site](https://delphi-resources.developpeur-pascal.fr/).
+The pages of this presentation are available in English.
 
-## Install
+You can view them [as images](./slides) or [download a PDF](ClientServerMadeEasyInDelphi202308.pdf).
 
-To download this project you better should use "git" command but you also can download a ZIP from [its GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX).
+## Replays
 
-**Warning :** if the project has submodules dependencies they wont be in the ZIP file. You'll have to download them manually.
+You can (re)watch the presentation on the [LearnDelphi.org YouTube channel](https://www.youtube.com/@LearnDelphi) or on [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) in a few days.
 
-## Dependencies
+## Examples
 
-This project depends on :
+Several Delphi projects were shown during this presentation. Here are the links to view their source code, download and test them.
 
-* project 1
-* project 2
+* [use of Delphi sockets](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket)
+* [using the Socket Messaging library by hand](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server)
+* [creation of a chat with the code generator](./sample-chat)
+* [create a multiplayer real-time video game with the code generator](./sample-game)
 
-## How to ask a new feature, report a bug or a security issue ?
+## Links
 
-If you want an answer from the project owner the best way to ask for a new feature or report a bug is to go to [the GitHub repository](https://github.com/DeveloppeurPascal/XXXXXXXXXX) and [open a new issue](https://github.com/DeveloppeurPascal/XXXXXXXXXX/issues).
+* [Page "Network Socket" on Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
-If you found a security issue please don't report it publicly before a patch is available. Explain the case by [sending a private message to the author](https://developpeur-pascal.fr/nous-contacter.php).
+* [Page "System.Net.Socket" on docwiki](https://docwiki.embarcadero.com/Libraries/en/System.Net.Socket)
 
-You also can fork the repository and contribute by submitting pull requests if you want to help. Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+* [Socket Messaging Code Generator](http://smcodegenerator.olfsoftware.fr)
 
-## Dual licensing model (only for my projects, not for this code repository template)
+* [Socket Messaging library for Delphi](https://socketmessaging.developpeur-pascal.fr)
 
-This project is distributed under [AGPL 3.0 or later](https://choosealicense.com/licenses/agpl-3.0/) license.
+## Comments and questions
 
-If you want to use it or a part of it in your projects but don't want to share the sources or don't want to distribute your project under the same license you can buy the right to use it under the [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) or a dedicated license ([contact the author](https://developpeur-pascal.fr/nous-contacter.php) to explain your needs).
+The [discussion area](https://github.com/DeveloppeurPascal/Delphi-Coding-Bootcamp-2023/discussions) is open on the repository if you have any questions or comments about this presentation. You can also contribute to other discussion forums.
+
+If you drop by [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) or [Delphi Praxis](https://en.delphipraxis.net), you'll have a chance of getting an answer from me, since I also hang out there from time to time.
 
 ## Support the project and its author
 

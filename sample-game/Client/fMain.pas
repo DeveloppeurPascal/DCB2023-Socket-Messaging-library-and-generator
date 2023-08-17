@@ -112,7 +112,11 @@ end;
 
 procedure TForm1.FormCreate(Sender: TObject);
 begin
+{$IFDEF RELEASE}
+  Client := TMultiUserDrawClient.Create('141.94.221.190', 8080);
+  {$ELSE}
   Client := TMultiUserDrawClient.Create('127.0.0.1', 8080);
+  {$ENDIF}
   Client.onReceiveMUDChangePixelColorFromAnOtherUserMessage := DoReceivePixel;
   Client.Connect;
 

@@ -33,9 +33,15 @@ Several Delphi projects were shown during this presentation. Here are the links 
 
 * [Socket Messaging library for Delphi](https://socketmessaging.developpeur-pascal.fr)
 
+## Bonus downloads
+
+If you liked my Windows "[Do you Pascal Case ?](https://www.dropbox.com/s/q0ozh2hvjjh3w37/RADStudio-PascalCase-1920x1080.jpg?dl=1)" background image, you can download it from [my website](https://developpeur-pascal.fr/les-fonds-d-ecran.html) with some others I used during the years for live and online conferences, courses or webinars.
+
+Some of them are also [available as mugs](https://www.leshopdeludo.fr/326-goodies) (in very low quantities). To know why and how, please [read those posts](https://developpeur-pascal.fr/goodies.html).
+
 ## Comments and questions
 
-The [discussion area](https://github.com/DeveloppeurPascal/Delphi-Coding-Bootcamp-2023/discussions) is open on the repository if you have any questions or comments about this presentation. You can also contribute to other discussion forums.
+The [discussion area](https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator/discussions) is open on the repository if you have any questions or comments about this presentation. You can also contribute to other discussion forums.
 
 If you drop by [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) or [Delphi Praxis](https://en.delphipraxis.net), you'll have a chance of getting an answer from me, since I also hang out there from time to time.
 

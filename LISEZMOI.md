@@ -35,9 +35,15 @@ Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voi
 
 ## Commentaires et questions
 
-[L'espace de discussion](https://github.com/DeveloppeurPascal/Delphi-Coding-Bootcamp-2023/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
+[L'espace de discussion](https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
 
 Si vous passez sur [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) ou [Delphi Praxis](https://en.delphipraxis.net) vous aurez une chance d'avoir une réponse de ma part puisque j'y traine aussi de temps en temps.
+
+## Bonus à télécharger
+
+Si vous avez aimé mon image de fond Windows "[Do you Pascal Case ?](https://www.dropbox.com/s/q0ozh2hvjjh3w37/RADStudio-PascalCase-1920x1080.jpg?dl=1)", vous pouvez la télécharger à partir de [mon site web](https://developpeur-pascal.fr/les-fonds-d-ecran.html) avec d'autres images que créées au cours des années pour des conférences en présentiel et en ligne, des cours ou des webinaires.
+
+Certaines d'entre elles sont également [disponibles sous forme de mugs](https://www.leshopdeludo.fr/326-goodies) (en très petites quantités). Pour savoir pourquoi et comment, veuillez [lire ces articles](https://developpeur-pascal.fr/goodies.html).
 
 ## Supportez ce projet et son auteur
 

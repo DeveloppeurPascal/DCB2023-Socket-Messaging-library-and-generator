@@ -12,7 +12,9 @@ Vous pouvez les consulter [sous forme d'images](./slides) ou en [télécharger u
 
 ## Rediffusions
 
-Vous pourrez (re)voir la présentation sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) ou sur [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) dans quelques jours.
+Les rediffusions de cette semaine de conférences sont visibles sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) et [la chaîne YouTube de Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech).
+
+Vous pouvez aussi [voir ou revoir cette session sur Serial Streameur](https://serialstreameur.fr/client-server-made-easy-with-the-socket-messaging-library-for-delphi-coding-bootcamp-2023.html).
 
 ## Exemples
 

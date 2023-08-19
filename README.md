@@ -12,7 +12,9 @@ You can view them [as images](./slides) or [download a PDF](ClientServerMadeEasy
 
 ## Replays
 
-You can (re)watch the presentation on the [LearnDelphi.org YouTube channel](https://www.youtube.com/@LearnDelphi) or on [Serial Streameur](https://serialstreameur.fr/learndelphiorg-coding-bootcamp-2023.html) in a few days.
+Replays of this week's conference can be seen on [LearnDelphi.org's YouTube channel](https://www.youtube.com/@LearnDelphi) and [Embarcadero Technologies' YouTube channel](https://www.youtube.com/@EmbarcaderoTech).
+
+You can also [view or replay this session on Serial Streameur](https://serialstreameur.fr/client-server-made-easy-with-the-socket-messaging-library-for-delphi-coding-bootcamp-2023.html).
 
 ## Examples
 

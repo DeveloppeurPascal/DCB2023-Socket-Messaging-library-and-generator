@@ -20,10 +20,12 @@ Vous pouvez aussi [voir ou revoir cette session sur Serial Streameur](https://se
 
 Plusieurs projets sous Delphi ont été montrés durant cette présentation. Voici les liens pour consulter leurs codes sources, les télécharger et les tester.
 
-* [utilisation de sockets en Delphi](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket)
-* [utilisation de la librairie Socket Messaging "à la main"](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server)
-* [création d'un tchat avec le générateur de code](./sample-chat)
-* [création d'un jeu vidéo multi joueurs en temps réel avec le générateur de code](./sample-game)
+Ces passages ont été montés et accélérés pour la conférence. Une video complète avec des explications détaillées est disponible pour chaque projet.
+
+* [utilisation de sockets en Delphi](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket) - voir [la vidéo complète de la revue de code de cet exemple](https://developpeur-pascal.fr/exemple-d-utilisation-du-composant-tsocket-dans-un-projet-delphi.html) avec les explications sur les sockets en français
+* [utilisation de la librairie Socket Messaging "à la main"](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server) - voir [la vidéo complète de la revue de code de cet exemple](https://developpeur-pascal.fr/exemple-d-utilisation-a-la-main-de-la-librairie-socket-messaging.html) avec les explications sur la librairie socket messaging en français
+* [création d'un tchat avec le générateur de code](./sample-chat) - [suivre le développement de ce projet](https://developpeur-pascal.fr/developpement-d-un-espace-de-discussion-a-plusieurs-en-reseau-avec-sm-code-generator.html) en temps réel avec les explications détaillées de chaque étape en français
+* [création d'un jeu vidéo multi joueurs en temps réel avec le générateur de code](./sample-game) - [suivre le développement de ce projet](https://developpeur-pascal.fr/developper-un-espace-de-dessin-a-plusieurs-en-reseau-sous-le-principe-de-la-pixel-war.html) en temps réel avec les explications détaillées de chaque étape en français
 
 ## Liens
 

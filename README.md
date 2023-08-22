@@ -20,10 +20,12 @@ You can also [view or replay this session on Serial Streameur](https://serialstr
 
 Several Delphi projects were shown during this presentation. Here are the links to view their source code, download and test them.
 
-* [use of Delphi sockets](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket)
-* [using the Socket Messaging library by hand](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server)
-* [creation of a chat with the code generator](./sample-chat)
-* [create a multiplayer real-time video game with the code generator](./sample-game)
+These passages have been edited and accelerated for the conference. A full video with detailed explanations is available for each project.
+
+* [use of Delphi sockets](https://github.com/DeveloppeurPascal/Delphi-samples/tree/main/Network-Samples/01-TSocket) - see [the full code review video for this example](https://developpeur-pascal.fr/exemple-d-utilisation-du-composant-tsocket-dans-un-projet-delphi.html) with explanations on sockets in French
+* [using the Socket Messaging library by hand](https://github.com/DeveloppeurPascal/Socket-Messaging-Library/tree/main/samples/01-fmx-client-server) - see [the full code review video for this sample](https://developpeur-pascal.fr/exemple-d-utilisation-a-la-main-de-la-librairie-socket-messaging.html) with explanations on the sockets messaging library in French
+* [creation of a chat with the code generator](./sample-chat) - [follow the development of this project](https://developpeur-pascal.fr/developpement-d-un-espace-de-discussion-a-plusieurs-en-reseau-avec-sm-code-generator.html) in real time with detailed explanations of each step in French
+* [create a multiplayer real-time video game with the code generator](./sample-game) - [follow the development of this project](https://developpeur-pascal.fr/developper-un-espace-de-dessin-a-plusieurs-en-reseau-sous-le-principe-de-la-pixel-war.html) in real time with detailed explanations of each step in French
 
 ## Links
 

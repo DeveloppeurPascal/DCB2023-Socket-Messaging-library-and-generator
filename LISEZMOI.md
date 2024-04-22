@@ -2,7 +2,7 @@
 
 [This page in english.](README.md)
 
-Codes sources, liens et documents liés à la présentation proposée par [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) lors de la conférence [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/).
+Codes sources, liens et documents liés à la présentation proposée par [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) lors de la conférence [LearnDelphi Coding Bootcamp 2023](https://serialstreameur.fr/learn-delphi-coding-bootcamp-2023.html).
 
 ## Présentation
 
@@ -12,7 +12,7 @@ Vous pouvez les consulter [sous forme d'images](./slides) ou en [télécharger u
 
 ## Rediffusions
 
-Les rediffusions de cette semaine de conférences sont visibles sur [la chaîne YouTube de LearnDelphi.org](https://www.youtube.com/@LearnDelphi) et [la chaîne YouTube de Embarcadero Technologies](https://www.youtube.com/@EmbarcaderoTech).
+Les rediffusions de cette semaine de conférences sont visibles sur [cette playlist de la chaîne YouTube de Embarcadero Technologies](https://www.youtube.com/playlist?list=PLwUPJvR9mZHiwEXqFkPf5yJAotzDiC4BP).
 
 Vous pouvez aussi [voir ou revoir cette session sur Serial Streameur](https://serialstreameur.fr/client-server-made-easy-with-the-socket-messaging-library-for-delphi-coding-bootcamp-2023.html).
 
@@ -37,17 +37,17 @@ Ces passages ont été montés et accélérés pour la conférence. Une video co
 
 * [Socket Messaging library for Delphi](https://socketmessaging.developpeur-pascal.fr)
 
-## Commentaires et questions
-
-[L'espace de discussion](https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
-
-Si vous passez sur [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) ou [Delphi Praxis](https://en.delphipraxis.net) vous aurez une chance d'avoir une réponse de ma part puisque j'y traine aussi de temps en temps.
-
 ## Bonus à télécharger
 
 Si vous avez aimé mon image de fond Windows "[Do you Pascal Case ?](https://www.dropbox.com/s/q0ozh2hvjjh3w37/RADStudio-PascalCase-1920x1080.jpg?dl=1)", vous pouvez la télécharger à partir de [mon site web](https://developpeur-pascal.fr/les-fonds-d-ecran.html) avec d'autres images que créées au cours des années pour des conférences en présentiel et en ligne, des cours ou des webinaires.
 
 Certaines d'entre elles sont également [disponibles sous forme de mugs](https://www.leshopdeludo.fr/326-goodies) (en très petites quantités). Pour savoir pourquoi et comment, veuillez [lire ces articles](https://developpeur-pascal.fr/goodies.html).
+
+## Commentaires et questions
+
+[L'espace de discussion](https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator/discussions) est ouvert sur le dépôt si vous avez des questions ou remarques concernant cette présentation. Vous pouvez aussi intervenir sur des forums de discussion.
+
+Si vous passez sur [Delphi Praxis](https://en.delphipraxis.net) vous aurez une chance d'avoir une réponse de ma part puisque j'y traine aussi de temps en temps.
 
 ## Supportez ce projet et son auteur
 

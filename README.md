@@ -2,7 +2,7 @@
 
 [Cette page en français.](LISEZMOI.md)
 
-Source codes, links and documents related to the presentation given by [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) during the [LearnDelphi Coding Bootcamp 2023](https://learndelphi.org/coding-bootcamp-2023/) conference.
+Source codes, links and documents related to the presentation given by [Patrick Prémartin](https://fr.gravatar.com/patrickpremartinfr) during the [LearnDelphi Coding Bootcamp 2023](https://serialstreameur.fr/learn-delphi-coding-bootcamp-2023.html) conference.
 
 ## Presentation
 
@@ -12,7 +12,7 @@ You can view them [as images](./slides) or [download a PDF](ClientServerMadeEasy
 
 ## Replays
 
-Replays of this week's conference can be seen on [LearnDelphi.org's YouTube channel](https://www.youtube.com/@LearnDelphi) and [Embarcadero Technologies' YouTube channel](https://www.youtube.com/@EmbarcaderoTech).
+Replays of this week's conference can be seen on [this playlist at Embarcadero Technologies' YouTube channel](https://www.youtube.com/playlist?list=PLwUPJvR9mZHiwEXqFkPf5yJAotzDiC4BP).
 
 You can also [view or replay this session on Serial Streameur](https://serialstreameur.fr/client-server-made-easy-with-the-socket-messaging-library-for-delphi-coding-bootcamp-2023.html).
 
@@ -47,7 +47,7 @@ Some of them are also [available as mugs](https://www.leshopdeludo.fr/326-goodie
 
 The [discussion area](https://github.com/DeveloppeurPascal/DCB2023-Socket-Messaging-library-and-generator/discussions) is open on the repository if you have any questions or comments about this presentation. You can also contribute to other discussion forums.
 
-If you drop by [Developpez.com](https://www.developpez.net/forums/f15/environnements-developpement/delphi/) or [Delphi Praxis](https://en.delphipraxis.net), you'll have a chance of getting an answer from me, since I also hang out there from time to time.
+If you drop by [Delphi Praxis](https://en.delphipraxis.net), you'll have a chance of getting an answer from me, since I also hang out there from time to time.
 
 ## Support the project and its author
 
